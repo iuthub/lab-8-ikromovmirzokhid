@@ -1,15 +1,10 @@
 @extends('layouts.master')
-
 @section('content')
-    <div class="row">
-        <div class="col-md-12">
-            <p class="quote">About Me</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda commodi illum nobis nostrum numquam officiis possimus provident rem repellat sint? Dicta eligendi eum hic, labore nisi non quidem quos voluptates.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa debitis magni modi nihil numquam odit pariatur recusandae repellendus sint voluptates. Blanditiis expedita minus nostrum numquam placeat porro praesentium quae soluta!</p>
+<div class="row">
+        <div class="col-md-12 text-center">
+            <h1 class="post-title">About Me</h1>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus id ipsum quasi, eos tempora at doloremque nihil quas quidem. Autem dolore doloremque, hic inventore aliquam ipsam distinctio corporis nam numquam.</p>
+
         </div>
     </div>
 @endsection
